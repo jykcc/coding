@@ -1,5 +1,5 @@
 module.exports = {
-    base: '/coding/',
+    base: './',
     title: '又 见 月',
     description: '转Java开发的Python脚本小子',
     head: [
