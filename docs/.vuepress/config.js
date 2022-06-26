@@ -1,7 +1,7 @@
 module.exports = {
     base: '/coding/',
     title: '又 见 月',
-    description: '转Java开发的Python脚本小子',
+    description: 'Yue Ban',
     head: [
         ['link', { rel: 'icon', href: '/logo.jpg' }]
     ],
@@ -17,6 +17,9 @@ module.exports = {
                     children: ['/java/javase'],   //该分组下要显示的文件的目录
                 },
             ],
+            '/zh/guide/':  {
+                    title: 'Java',
+                },
         },
 
     },
